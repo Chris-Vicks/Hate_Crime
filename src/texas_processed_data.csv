@@ -137,7 +137,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 10252,7999,1992,New Braunfels,TX,Texas,"Cities from 25,000 thru 49,999",13-SEP-92,1,White,1,Simple Assault,1.0,Bar/Nightclub,Anti-American Indian or Alaska Native,Individual,Violent
 10253,8000,1992,New Braunfels,TX,Texas,"Cities from 25,000 thru 49,999",27-SEP-92,1,White,1,Simple Assault,1.0,Restaurant,Anti-Hispanic or Latino,Individual,Violent
 10254,8001,1992,New Braunfels,TX,Texas,"Cities from 25,000 thru 49,999",15-JUN-92,1,White,1,Intimidation,1.0,Commercial/Office Building,Anti-Hispanic or Latino,Individual,Violent
-10255,8002,1992,New Braunfels,TX,Texas,"Cities from 25,000 thru 49,999",25-JUN-92,1,White,2,Not Specified,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,Other
+10255,8002,1992,New Braunfels,TX,Texas,"Cities from 25,000 thru 49,999",25-JUN-92,1,White,2,Not Specified,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,Non-Violent
 10256,8003,1992,Coryell,TX,Texas,"MSA counties from 25,000 thru 99,999",23-FEB-92,4,White,1,Aggravated Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,Violent
 10257,8004,1992,Copperas Cove,TX,Texas,"Cities from 25,000 thru 49,999",13-FEB-92,4,White,3,Aggravated Assault,3.0,Residence/Home,Anti-Black or African American,Individual,Violent
 10258,8005,1992,Copperas Cove,TX,Texas,"Cities from 25,000 thru 49,999",04-NOV-92,0,White,1,Burglary/Breaking & Entering,0.0,Residence/Home,Anti-Black or African American,Other,Violent
@@ -279,7 +279,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 10394,8076,1992,Montgomery,TX,Texas,"MSA counties 100,000 or over",13-MAR-92,2,White,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Black or African American,Society/Public,Non-Violent
 10395,8077,1992,Montgomery,TX,Texas,"MSA counties 100,000 or over",06-SEP-92,0,White,2,Arson;Intimidation,1.0,Residence/Home,Anti-Black or African American,Individual;Other,Violent
 10396,8078,1992,Montgomery,TX,Texas,"MSA counties 100,000 or over",13-OCT-92,1,White,1,Simple Assault,1.0,Residence/Home,Anti-Black or African American,Individual,Violent
-10397,8095,1992,Montgomery,TX,Texas,"MSA counties 100,000 or over",13-JUL-92,1,White,1,Not Specified,1.0,Residence/Home,Anti-Other Race/Ethnicity/Ancestry,Individual,Other
+10397,8095,1992,Montgomery,TX,Texas,"MSA counties 100,000 or over",13-JUL-92,1,White,1,Not Specified,1.0,Residence/Home,Anti-Other Race/Ethnicity/Ancestry,Individual,Non-Violent
 10398,8096,1992,Montgomery,TX,Texas,"MSA counties 100,000 or over",14-SEP-92,0,White,1,Intimidation,1.0,Residence/Home,Anti-Black or African American,Individual,Violent
 10399,8079,1992,Conroe,TX,Texas,"Cities from 25,000 thru 49,999",01-SEP-92,1,Black or African American,1,Intimidation,1.0,Residence/Home,Anti-White,Individual,Violent
 10400,8097,1992,Nacogdoches,TX,Texas,"Cities from 25,000 thru 49,999",25-OCT-92,1,White,2,Intimidation,2.0,Residence/Home,Anti-Black or African American,Individual,Violent
@@ -2026,7 +2026,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 41129,37454,1996,Houston,TX,Texas,"Cities 1,000,000 or over",19-APR-96,0,Unknown,1,Destruction/Damage/Vandalism of Property,0.0,Residence/Home,Anti-Jewish,Other,Non-Violent
 41130,37455,1996,Houston,TX,Texas,"Cities 1,000,000 or over",06-MAY-96,2,White,1,Simple Assault,1.0,Residence/Home,Anti-Black or African American,Individual,Violent
 41131,37456,1996,Houston,TX,Texas,"Cities 1,000,000 or over",18-JUN-96,1,White,1,Simple Assault,1.0,Residence/Home,Anti-Black or African American,Individual,Violent
-41132,37457,1996,Houston,TX,Texas,"Cities 1,000,000 or over",08-AUG-96,0,Unknown,1,Not Specified,0.0,Parking/Drop Lot/Garage,Anti-Black or African American,Other,Other
+41132,37457,1996,Houston,TX,Texas,"Cities 1,000,000 or over",08-AUG-96,0,Unknown,1,Not Specified,0.0,Parking/Drop Lot/Garage,Anti-Black or African American,Other,Non-Violent
 41133,37458,1996,Houston,TX,Texas,"Cities 1,000,000 or over",15-AUG-96,1,White,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,Violent
 41134,37459,1996,Houston,TX,Texas,"Cities 1,000,000 or over",25-AUG-96,2,White,2,Simple Assault,2.0,Restaurant,Anti-Black or African American,Individual,Violent
 41135,37460,1996,Houston,TX,Texas,"Cities 1,000,000 or over",26-AUG-96,5,Black or African American,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,Violent
@@ -2343,7 +2343,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 49218,48935,1997,Dallas,TX,Texas,"Cities 1,000,000 or over",21-OCT-97,1,Black or African American,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,Violent
 49219,48936,1997,Dallas,TX,Texas,"Cities 1,000,000 or over",08-DEC-97,3,White,1,Aggravated Assault,1.0,Field/Woods,Anti-Black or African American,Individual,Violent
 49220,48937,1997,Dallas,TX,Texas,"Cities 1,000,000 or over",11-DEC-97,3,Multiple,1,Destruction/Damage/Vandalism of Property,0.0,Residence/Home,Anti-Jewish,Other,Non-Violent
-49221,48938,1997,Dallas,TX,Texas,"Cities 1,000,000 or over",12-DEC-97,0,Unknown,1,Not Specified,0.0,Residence/Home,Anti-Black or African American,Other,Other
+49221,48938,1997,Dallas,TX,Texas,"Cities 1,000,000 or over",12-DEC-97,0,Unknown,1,Not Specified,0.0,Residence/Home,Anti-Black or African American,Other,Non-Violent
 49222,45845,1997,Houston,TX,Texas,"Cities 1,000,000 or over",10-AUG-97,1,White,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,Violent
 49223,45846,1997,Houston,TX,Texas,"Cities 1,000,000 or over",09-SEP-97,0,Unknown,1,Destruction/Damage/Vandalism of Property,0.0,Church/Synagogue/Temple/Mosque,Anti-Protestant,Religious Organization,Non-Violent
 49224,45847,1997,Houston,TX,Texas,"Cities 1,000,000 or over",27-JAN-97,2,Unknown,1,Simple Assault,1.0,Residence/Home,Anti-White,Individual,Violent
@@ -2655,7 +2655,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 57052,56728,1998,Houston,TX,Texas,"Cities 1,000,000 or over",03-FEB-98,1,White,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,Violent
 57053,56729,1998,Houston,TX,Texas,"Cities 1,000,000 or over",14-FEB-98,1,White,1,Intimidation,1.0,Bar/Nightclub,Anti-Black or African American,Individual,Violent
 57054,56730,1998,Houston,TX,Texas,"Cities 1,000,000 or over",16-FEB-98,0,Unknown,2,Burglary/Breaking & Entering;Destruction/Damage/Vandalism of Property,0.0,Specialty Store,Anti-Black or African American,Business,Violent
-57055,56731,1998,Houston,TX,Texas,"Cities 1,000,000 or over",28-FEB-98,1,White,1,Not Specified,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Lesbian (Female),Other,Other
+57055,56731,1998,Houston,TX,Texas,"Cities 1,000,000 or over",28-FEB-98,1,White,1,Not Specified,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Lesbian (Female),Other,Non-Violent
 57056,56732,1998,Houston,TX,Texas,"Cities 1,000,000 or over",10-APR-98,1,White,1,Simple Assault,1.0,Grocery/Supermarket,Anti-Black or African American,Individual,Violent
 57057,56733,1998,Houston,TX,Texas,"Cities 1,000,000 or over",02-APR-98,1,Black or African American,1,Intimidation,1.0,Restaurant,Anti-White,Individual,Violent
 57058,56734,1998,Houston,TX,Texas,"Cities 1,000,000 or over",18-MAY-98,0,Unknown,2,Destruction/Damage/Vandalism of Property;Intimidation,1.0,Church/Synagogue/Temple/Mosque,Anti-Protestant,Individual;Religious Organization,Violent
@@ -3923,7 +3923,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 90240,88942,2002,Dallas,TX,Texas,"Cities 1,000,000 or over",02-DEC-02,0,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-White,Individual,Non-Violent
 90241,88943,2002,Dallas,TX,Texas,"Cities 1,000,000 or over",06-DEC-02,8,Black or African American,2,Simple Assault,2.0,Residence/Home,Anti-Hispanic or Latino,Individual,Violent
 90242,88944,2002,Dallas,TX,Texas,"Cities 1,000,000 or over",11-DEC-02,4,Black or African American,1,Simple Assault,1.0,School/College,Anti-White,Individual,Violent
-90243,87206,2002,Houston,TX,Texas,"Cities 1,000,000 or over",10-JAN-02,3,Black or African American,1,Not Specified,1.0,Parking/Drop Lot/Garage,Anti-Hispanic or Latino,Individual,Other
+90243,87206,2002,Houston,TX,Texas,"Cities 1,000,000 or over",10-JAN-02,3,Black or African American,1,Not Specified,1.0,Parking/Drop Lot/Garage,Anti-Hispanic or Latino,Individual,Non-Violent
 90244,87207,2002,Houston,TX,Texas,"Cities 1,000,000 or over",11-JAN-02,2,Black or African American,3,Robbery,3.0,Bar/Nightclub,Anti-Hispanic or Latino,Individual,Violent
 90245,87208,2002,Houston,TX,Texas,"Cities 1,000,000 or over",11-JAN-02,2,Black or African American,1,Robbery,1.0,Parking/Drop Lot/Garage,Anti-Hispanic or Latino,Individual,Violent
 90246,87209,2002,Houston,TX,Texas,"Cities 1,000,000 or over",01-JAN-02,0,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Black or African American,Individual,Non-Violent
@@ -4243,7 +4243,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 97763,98339,2003,Dallas,TX,Texas,"Cities 1,000,000 or over",15-DEC-03,2,Black or African American,1,Simple Assault,1.0,School/College,Anti-Hispanic or Latino,Individual,Violent
 97764,98340,2003,Dallas,TX,Texas,"Cities 1,000,000 or over",15-DEC-03,1,Black or African American,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,Violent
 97765,98341,2003,Dallas,TX,Texas,"Cities 1,000,000 or over",23-DEC-03,0,Unknown,2,Burglary/Breaking & Entering;Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Black or African American,Individual,Violent
-97766,98342,2003,Dallas,TX,Texas,"Cities 1,000,000 or over",07-JAN-03,1,Black or African American,1,Not Specified,1.0,Parking/Drop Lot/Garage,Anti-White,Individual,Other
+97766,98342,2003,Dallas,TX,Texas,"Cities 1,000,000 or over",07-JAN-03,1,Black or African American,1,Not Specified,1.0,Parking/Drop Lot/Garage,Anti-White,Individual,Non-Violent
 97767,98343,2003,Dallas,TX,Texas,"Cities 1,000,000 or over",19-MAR-03,1,White,1,Intimidation,1.0,Residence/Home,Anti-Black or African American,Individual,Violent
 97768,98344,2003,Dallas,TX,Texas,"Cities 1,000,000 or over",31-MAR-03,0,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Gay (Male),Individual,Non-Violent
 97769,98345,2003,Dallas,TX,Texas,"Cities 1,000,000 or over",20-JAN-03,0,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Hispanic or Latino,Individual,Non-Violent
@@ -4352,7 +4352,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 105269,102507,2004,Richardson,TX,Texas,"Cities from 100,000 thru 249,999",25-AUG-04,0,Unknown,1,Intimidation,0.0,Parking/Drop Lot/Garage,Anti-Asian,Individual,Violent
 105270,105662,2004,Richardson,TX,Texas,"Cities from 100,000 thru 249,999",27-MAR-04,1,White,2,Simple Assault,0.0,School/College,Anti-Hispanic or Latino,Individual,Violent
 105271,105663,2004,Richardson,TX,Texas,"Cities from 100,000 thru 249,999",01-DEC-04,0,Unknown,1,Destruction/Damage/Vandalism of Property,0.0,Parking/Drop Lot/Garage,Anti-Black or African American,Individual,Non-Violent
-105272,105664,2004,University of Texas:,TX,Texas,"Cities under 2,500",03-NOV-04,0,Unknown,1,Not Specified,0.0,School/College,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",Other,Other
+105272,105664,2004,University of Texas:,TX,Texas,"Cities under 2,500",03-NOV-04,0,Unknown,1,Not Specified,0.0,School/College,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",Other,Non-Violent
 105273,102508,2004,Ovilla,TX,Texas,"Cities from 2,500 thru 9,999",29-JUL-04,1,White,3,Destruction/Damage/Vandalism of Property,3.0,Residence/Home,Anti-Black or African American,Individual,Non-Violent
 105274,102509,2004,Denton,TX,Texas,"Cities from 50,000 thru 99,999",12-JUN-04,1,White,1,Simple Assault,0.0,Residence/Home,Anti-Black or African American,Individual,Violent
 105275,102510,2004,Denton,TX,Texas,"Cities from 50,000 thru 99,999",19-SEP-04,1,White,2,Destruction/Damage/Vandalism of Property;Simple Assault,0.0,Parking/Drop Lot/Garage;Residence/Home,Anti-Lesbian (Female),Individual,Violent
@@ -4739,7 +4739,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 112830,113449,2005,Abilene,TX,Texas,"Cities from 100,000 thru 249,999",21-MAR-05,0,Unknown,2,Destruction/Damage/Vandalism of Property;Intimidation,1.0,Residence/Home,Anti-Hispanic or Latino,Individual;Other,Violent
 112831,113450,2005,Abilene,TX,Texas,"Cities from 100,000 thru 249,999",02-DEC-05,1,White,2,Aggravated Assault,2.0,Residence/Home,Anti-Black or African American,Individual,Violent
 112832,110253,2005,Austin,TX,Texas,"Cities from 500,000 thru 999,999",07-MAY-05,1,White,1,Simple Assault,1.0,Residence/Home,Anti-Jewish,Individual,Violent
-112833,110254,2005,Austin,TX,Texas,"Cities from 500,000 thru 999,999",22-JUN-05,0,Unknown,1,Not Specified,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Other Religion,Individual,Other
+112833,110254,2005,Austin,TX,Texas,"Cities from 500,000 thru 999,999",22-JUN-05,0,Unknown,1,Not Specified,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Other Religion,Individual,Non-Violent
 112834,110255,2005,Austin,TX,Texas,"Cities from 500,000 thru 999,999",03-FEB-05,1,White,1,Aggravated Assault,1.0,Highway/Road/Alley/Street/Sidewalk,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",Individual,Violent
 112835,110256,2005,Austin,TX,Texas,"Cities from 500,000 thru 999,999",30-MAR-05,0,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,Non-Violent
 112836,110257,2005,Austin,TX,Texas,"Cities from 500,000 thru 999,999",07-JAN-05,0,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Hispanic or Latino,Individual,Non-Violent
@@ -4833,7 +4833,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 112924,113394,2005,Houston,TX,Texas,"Cities 1,000,000 or over",05-FEB-05,4,Asian,3,Robbery,3.0,Parking/Drop Lot/Garage,Anti-Islamic (Muslim),Individual,Violent
 112925,113395,2005,Houston,TX,Texas,"Cities 1,000,000 or over",10-FEB-05,1,Black or African American,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,Violent
 112926,113396,2005,Houston,TX,Texas,"Cities 1,000,000 or over",10-FEB-05,0,Unknown,1,Destruction/Damage/Vandalism of Property,0.0,Church/Synagogue/Temple/Mosque,Anti-Jewish,Religious Organization,Non-Violent
-112927,113397,2005,Houston,TX,Texas,"Cities 1,000,000 or over",10-FEB-05,2,Black or African American,1,Not Specified,1.0,School/College,Anti-Other Race/Ethnicity/Ancestry,Individual,Other
+112927,113397,2005,Houston,TX,Texas,"Cities 1,000,000 or over",10-FEB-05,2,Black or African American,1,Not Specified,1.0,School/College,Anti-Other Race/Ethnicity/Ancestry,Individual,Non-Violent
 112928,113398,2005,Houston,TX,Texas,"Cities 1,000,000 or over",01-MAR-05,0,Unknown,1,Destruction/Damage/Vandalism of Property,0.0,Church/Synagogue/Temple/Mosque,Anti-Jewish,Religious Organization,Non-Violent
 112929,113399,2005,Houston,TX,Texas,"Cities 1,000,000 or over",01-MAR-05,0,Unknown,1,Destruction/Damage/Vandalism of Property,0.0,Other/Unknown,Anti-Jewish,Religious Organization,Non-Violent
 112930,113400,2005,Houston,TX,Texas,"Cities 1,000,000 or over",08-JUL-05,0,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Drug Store/Doctor's Office/Hospital,Anti-Islamic (Muslim),Individual,Non-Violent
@@ -4946,7 +4946,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 120435,117722,2006,Lipscomb,TX,Texas,"Non-MSA counties under 10,000",02-OCT-06,1,White,1,Aggravated Assault,1.0,School/College,Anti-Black or African American,Individual,Violent
 120436,117723,2006,Lubbock,TX,Texas,"MSA counties from 25,000 thru 99,999",07-JUL-06,1,White,1,Simple Assault,1.0,Commercial/Office Building,Anti-Gay (Male),Individual,Violent
 120437,117724,2006,Lubbock,TX,Texas,"MSA counties from 25,000 thru 99,999",01-DEC-06,1,Black or African American,1,Simple Assault,1.0,Government/Public Building,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",Individual,Violent
-120438,117725,2006,Midland,TX,Texas,"Cities from 100,000 thru 249,999",12-APR-06,2,White,1,Not Specified,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,Other
+120438,117725,2006,Midland,TX,Texas,"Cities from 100,000 thru 249,999",12-APR-06,2,White,1,Not Specified,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,Non-Violent
 120439,117726,2006,Midland,TX,Texas,"Cities from 100,000 thru 249,999",09-JUN-06,3,Black or African American,1,Robbery,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,Violent
 120440,117727,2006,Midland,TX,Texas,"Cities from 100,000 thru 249,999",01-OCT-06,1,White,1,Destruction/Damage/Vandalism of Property,0.0,Residence/Home,Anti-Hispanic or Latino,Other,Non-Violent
 120441,117728,2006,Oak Ridge North,TX,Texas,"Cities from 2,500 thru 9,999",12-AUG-06,1,White,1,Destruction/Damage/Vandalism of Property,0.0,Residence/Home,Anti-Black or African American,Other,Non-Violent
@@ -4994,7 +4994,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 120483,117755,2006,Austin,TX,Texas,"Cities from 500,000 thru 999,999",17-JUN-06,1,White,7,Aggravated Assault,7.0,Department/Discount Store,Anti-Black or African American,Individual,Violent
 120484,117756,2006,Austin,TX,Texas,"Cities from 500,000 thru 999,999",20-JAN-06,1,Black or African American,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,Violent
 120485,117757,2006,Austin,TX,Texas,"Cities from 500,000 thru 999,999",19-FEB-06,0,Unknown,1,Aggravated Assault,1.0,Air/Bus/Train Terminal,Anti-Hispanic or Latino,Individual,Violent
-120486,117758,2006,Austin,TX,Texas,"Cities from 500,000 thru 999,999",22-MAY-06,1,White,1,Not Specified,0.0,Hotel/Motel/Etc.,Anti-Asian,Business,Other
+120486,117758,2006,Austin,TX,Texas,"Cities from 500,000 thru 999,999",22-MAY-06,1,White,1,Not Specified,0.0,Hotel/Motel/Etc.,Anti-Asian,Business,Non-Violent
 120487,117759,2006,Austin,TX,Texas,"Cities from 500,000 thru 999,999",14-FEB-06,1,White,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Other Race/Ethnicity/Ancestry,Individual,Violent
 120488,120737,2006,Austin,TX,Texas,"Cities from 500,000 thru 999,999",17-APR-06,1,Black or African American,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",Individual,Violent
 120489,120738,2006,Austin,TX,Texas,"Cities from 500,000 thru 999,999",12-JUN-06,1,Black or African American,1,Robbery,1.0,Parking/Drop Lot/Garage,Anti-White,Individual,Violent
@@ -5276,7 +5276,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 128151,128339,2007,Dallas,TX,Texas,"Cities 1,000,000 or over",08-MAR-07,1,White,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,Violent
 128152,128340,2007,Dallas,TX,Texas,"Cities 1,000,000 or over",23-MAR-07,2,White,1,Simple Assault,1.0,Bar/Nightclub,Anti-Hispanic or Latino,Individual,Violent
 128153,128341,2007,Dallas,TX,Texas,"Cities 1,000,000 or over",13-JAN-07,4,White,1,Destruction/Damage/Vandalism of Property,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Other,Non-Violent
-128154,128342,2007,Dallas,TX,Texas,"Cities 1,000,000 or over",13-JAN-07,4,White,1,Not Specified,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Other,Other
+128154,128342,2007,Dallas,TX,Texas,"Cities 1,000,000 or over",13-JAN-07,4,White,1,Not Specified,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Other,Non-Violent
 128155,128343,2007,Dallas,TX,Texas,"Cities 1,000,000 or over",04-APR-07,0,Unknown,1,Destruction/Damage/Vandalism of Property,0.0,Residence/Home,Anti-Jewish,Other,Non-Violent
 128156,128344,2007,Dallas,TX,Texas,"Cities 1,000,000 or over",22-MAY-07,1,White,1,Intimidation,1.0,Parking/Drop Lot/Garage,Anti-Gay (Male),Individual,Violent
 128157,128345,2007,Dallas,TX,Texas,"Cities 1,000,000 or over",28-JUN-07,3,White,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,Violent
@@ -5314,7 +5314,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 128189,128362,2007,Houston,TX,Texas,"Cities 1,000,000 or over",23-JUN-07,1,Black or African American,2,Simple Assault,2.0,Residence/Home,Anti-White,Individual,Violent
 128190,128363,2007,Houston,TX,Texas,"Cities 1,000,000 or over",18-APR-07,1,Black or African American,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Individual,Violent
 128191,128364,2007,Houston,TX,Texas,"Cities 1,000,000 or over",10-JUL-07,3,White,3,Simple Assault,3.0,Parking/Drop Lot/Garage,Anti-Hispanic or Latino,Individual,Violent
-128192,128365,2007,Houston,TX,Texas,"Cities 1,000,000 or over",11-AUG-07,0,Unknown,1,Not Specified,0.0,Parking/Drop Lot/Garage,Anti-Lesbian (Female),Other,Other
+128192,128365,2007,Houston,TX,Texas,"Cities 1,000,000 or over",11-AUG-07,0,Unknown,1,Not Specified,0.0,Parking/Drop Lot/Garage,Anti-Lesbian (Female),Other,Non-Violent
 128193,128366,2007,Houston,TX,Texas,"Cities 1,000,000 or over",28-AUG-07,1,White,1,Aggravated Assault,1.0,Convenience Store,Anti-Black or African American,Individual,Violent
 128194,128367,2007,Houston,TX,Texas,"Cities 1,000,000 or over",09-AUG-07,2,White,1,Simple Assault,1.0,Parking/Drop Lot/Garage,Anti-Gay (Male),Individual,Violent
 128195,128368,2007,Houston,TX,Texas,"Cities 1,000,000 or over",09-SEP-07,1,White,1,Simple Assault,1.0,Bar/Nightclub,Anti-Hispanic or Latino,Individual,Violent
@@ -5507,7 +5507,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 136162,136714,2008,San Angelo,TX,Texas,"Cities from 50,000 thru 99,999",01-JAN-08,1,White,1,Destruction/Damage/Vandalism of Property,1.0,Restaurant,Anti-Gay (Male),Individual,Non-Violent
 136163,136715,2008,San Angelo,TX,Texas,"Cities from 50,000 thru 99,999",18-JAN-08,1,White,1,Intimidation,1.0,Residence/Home,Anti-Black or African American,Individual,Violent
 136164,136716,2008,San Angelo,TX,Texas,"Cities from 50,000 thru 99,999",06-SEP-08,0,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Parking/Drop Lot/Garage,Anti-Gay (Male),Individual,Non-Violent
-136165,133340,2008,Austin,TX,Texas,"Cities from 500,000 thru 999,999",05-JAN-08,1,White,1,Not Specified,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Other Race/Ethnicity/Ancestry,Individual,Other
+136165,133340,2008,Austin,TX,Texas,"Cities from 500,000 thru 999,999",05-JAN-08,1,White,1,Not Specified,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Other Race/Ethnicity/Ancestry,Individual,Non-Violent
 136166,133341,2008,Austin,TX,Texas,"Cities from 500,000 thru 999,999",24-APR-08,1,White,1,Simple Assault,1.0,Parking/Drop Lot/Garage,Anti-Lesbian (Female),Individual,Violent
 136167,133342,2008,Austin,TX,Texas,"Cities from 500,000 thru 999,999",10-JUN-08,1,White,1,Intimidation,1.0,Residence/Home,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",Individual,Violent
 136168,133343,2008,Austin,TX,Texas,"Cities from 500,000 thru 999,999",02-JUL-08,1,White,2,Intimidation,2.0,Residence/Home,Anti-Gay (Male),Individual,Violent
@@ -5522,7 +5522,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 136177,136721,2008,Austin,TX,Texas,"Cities from 500,000 thru 999,999",06-AUG-08,1,White,1,Intimidation,1.0,Residence/Home,Anti-Black or African American,Individual,Violent
 136178,136722,2008,Austin,TX,Texas,"Cities from 500,000 thru 999,999",08-SEP-08,1,Black or African American,2,Aggravated Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Individual,Violent
 136179,136723,2008,Austin,TX,Texas,"Cities from 500,000 thru 999,999",10-SEP-08,1,White,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Other Race/Ethnicity/Ancestry,Individual,Violent
-136180,136724,2008,Austin,TX,Texas,"Cities from 500,000 thru 999,999",14-OCT-08,1,White,1,Not Specified,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Other Race/Ethnicity/Ancestry,Individual,Other
+136180,136724,2008,Austin,TX,Texas,"Cities from 500,000 thru 999,999",14-OCT-08,1,White,1,Not Specified,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Other Race/Ethnicity/Ancestry,Individual,Non-Violent
 136181,136725,2008,Austin,TX,Texas,"Cities from 500,000 thru 999,999",17-OCT-08,1,Black or African American,1,Intimidation,1.0,Air/Bus/Train Terminal,Anti-White,Individual,Violent
 136182,136726,2008,Austin,TX,Texas,"Cities from 500,000 thru 999,999",03-DEC-08,1,White,1,Simple Assault,1.0,Other/Unknown,Anti-Black or African American,Individual,Violent
 136183,136727,2008,Austin,TX,Texas,"Cities from 500,000 thru 999,999",25-DEC-08,1,White,1,Destruction/Damage/Vandalism of Property,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,Non-Violent
@@ -5834,7 +5834,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 149497,147204,2010,Sweetwater,TX,Texas,"Cities from 10,000 thru 24,999",29-JUN-10,2,White,1,Aggravated Assault,1.0,Other/Unknown,Anti-Black or African American,Individual,Violent
 149498,147205,2010,Sweetwater,TX,Texas,"Cities from 10,000 thru 24,999",17-JUL-10,1,Unknown,1,Theft From Motor Vehicle,1.0,Parking/Drop Lot/Garage,Anti-Hispanic or Latino,Individual,Non-Violent
 149499,147206,2010,Sweetwater,TX,Texas,"Cities from 10,000 thru 24,999",29-JUN-10,2,White,1,Aggravated Assault,1.0,Other/Unknown,Anti-Black or African American,Individual,Violent
-149500,147207,2010,Sweetwater,TX,Texas,"Cities from 10,000 thru 24,999",17-JUL-10,0,Unknown,1,Not Specified,1.0,Parking/Drop Lot/Garage,Anti-Hispanic or Latino,Individual,Other
+149500,147207,2010,Sweetwater,TX,Texas,"Cities from 10,000 thru 24,999",17-JUL-10,0,Unknown,1,Not Specified,1.0,Parking/Drop Lot/Garage,Anti-Hispanic or Latino,Individual,Non-Violent
 149501,147208,2010,Corpus Christi,TX,Texas,"Cities from 250,000 thru 499,999",19-MAR-10,0,Unknown,1,Intimidation,1.0,Residence/Home,Anti-Black or African American,Individual,Violent
 149502,147209,2010,Corpus Christi,TX,Texas,"Cities from 250,000 thru 499,999",20-MAR-10,8,White,1,Simple Assault,1.0,Lake/Waterway/Beach,Anti-Jewish,Individual,Violent
 149503,147210,2010,Corpus Christi,TX,Texas,"Cities from 250,000 thru 499,999",05-APR-10,1,White,1,Aggravated Assault,1.0,Bar/Nightclub,Anti-Gay (Male),Individual,Violent
@@ -6202,7 +6202,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 162418,159984,2012,Dallas,TX,Texas,"Cities 1,000,000 or over",25-MAR-12,1,Black or African American,2,Simple Assault,2.0,Other/Unknown,Anti-Hispanic or Latino,Individual,Violent
 162419,159985,2012,Dallas,TX,Texas,"Cities 1,000,000 or over",08-MAY-12,4,Black or African American,1,Aggravated Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,Violent
 162420,159986,2012,Dallas,TX,Texas,"Cities 1,000,000 or over",20-MAY-12,1,Black or African American,1,Simple Assault,1.0,Residence/Home,Anti-Asian,Individual,Violent
-162421,159987,2012,Dallas,TX,Texas,"Cities 1,000,000 or over",17-MAY-12,5,Black or African American,1,Not Specified,1.0,Residence/Home,Anti-Asian,Individual,Other
+162421,159987,2012,Dallas,TX,Texas,"Cities 1,000,000 or over",17-MAY-12,5,Black or African American,1,Not Specified,1.0,Residence/Home,Anti-Asian,Individual,Non-Violent
 162422,159988,2012,Dallas,TX,Texas,"Cities 1,000,000 or over",06-JUN-12,0,Unknown,3,Intimidation,3.0,Residence/Home,Anti-Hispanic or Latino,Individual,Violent
 162423,159989,2012,Dallas,TX,Texas,"Cities 1,000,000 or over",12-APR-12,1,White,1,Aggravated Assault,1.0,Other/Unknown,Anti-Gay (Male),Individual,Violent
 162424,159990,2012,Dallas,TX,Texas,"Cities 1,000,000 or over",17-JUL-12,1,Black or African American,1,Simple Assault,1.0,Other/Unknown,Anti-Asian,Individual,Violent
@@ -6257,7 +6257,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 162473,160030,2012,San Antonio,TX,Texas,"Cities 1,000,000 or over",26-MAY-12,1,White,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",Individual,Non-Violent
 162474,162359,2012,San Antonio,TX,Texas,"Cities 1,000,000 or over",06-NOV-12,2,Multiple,1,Aggravated Assault,1.0,School/College,Anti-Lesbian (Female),Individual,Violent
 162475,162360,2012,San Antonio,TX,Texas,"Cities 1,000,000 or over",18-DEC-12,2,White,1,Simple Assault,1.0,Convenience Store,Anti-Black or African American,Individual,Violent
-162476,162361,2012,San Antonio,TX,Texas,"Cities 1,000,000 or over",07-OCT-12,1,White,1,Not Specified,1.0,Residence/Home,Anti-Black or African American,Individual,Other
+162476,162361,2012,San Antonio,TX,Texas,"Cities 1,000,000 or over",07-OCT-12,1,White,1,Not Specified,1.0,Residence/Home,Anti-Black or African American,Individual,Non-Violent
 168391,168418,2013,Temple,TX,Texas,"Cities from 50,000 thru 99,999",17-AUG-13,1,White,2,Aggravated Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,Violent
 168392,168419,2013,Brownwood,TX,Texas,"Cities from 10,000 thru 24,999",27-MAY-13,1,White,2,Destruction/Damage/Vandalism of Property,2.0,Commercial/Office Building,Anti-Black or African American,Individual,Non-Violent
 168393,168420,2013,Marble Falls,TX,Texas,"Cities from 2,500 thru 9,999",03-JUL-13,1,White,1,Simple Assault,1.0,Residence/Home,Anti-Black or African American,Individual,Violent
@@ -6598,7 +6598,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 179887,179901,2015,Fairfield,TX,Texas,"Cities from 2,500 thru 9,999",15-NOV-15,1,White,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,Violent
 179888,179902,2015,Galveston,TX,Texas,"MSA counties from 25,000 thru 99,999",16-JUL-15,1,White,1,Simple Assault,1.0,Residence/Home,Anti-Other Race/Ethnicity/Ancestry,Individual,Violent
 179889,179903,2015,Galveston,TX,Texas,"MSA counties from 25,000 thru 99,999",20-SEP-15,0,Unknown,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Other Race/Ethnicity/Ancestry,Individual,Violent
-179890,179904,2015,Galveston,TX,Texas,"MSA counties from 25,000 thru 99,999",28-NOV-15,1,Unknown,1,Not Specified,1.0,Residence/Home,Anti-Other Race/Ethnicity/Ancestry,Individual,Other
+179890,179904,2015,Galveston,TX,Texas,"MSA counties from 25,000 thru 99,999",28-NOV-15,1,Unknown,1,Not Specified,1.0,Residence/Home,Anti-Other Race/Ethnicity/Ancestry,Individual,Non-Violent
 179891,179905,2015,Galveston,TX,Texas,"Cities from 50,000 thru 99,999",07-MAY-15,1,White,1,Intimidation,1.0,Residence/Home,Anti-Black or African American,Individual,Violent
 179892,179906,2015,Gray,TX,Texas,"Non-MSA counties under 10,000",21-NOV-15,1,White,2,Intimidation,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Individual,Violent
 179893,179907,2015,Longview,TX,Texas,"Cities from 50,000 thru 99,999",29-MAY-15,1,White,1,Simple Assault,1.0,Residence/Home,Anti-Black or African American,Individual,Violent
@@ -6704,7 +6704,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 179993,179816,2015,Dallas,TX,Texas,"Cities 1,000,000 or over",03-APR-15,1,White,1,Simple Assault,1.0,School-Elementary/Secondary,Anti-Black or African American,Individual,Violent
 179994,179817,2015,Dallas,TX,Texas,"Cities 1,000,000 or over",03-APR-15,3,White,1,Destruction/Damage/Vandalism of Property,1.0,Restaurant,Anti-Gay (Male),Individual,Non-Violent
 179995,179818,2015,Dallas,TX,Texas,"Cities 1,000,000 or over",16-APR-15,4,Black or African American,1,Destruction/Damage/Vandalism of Property,1.0,Parking/Drop Lot/Garage,Anti-Transgender,Individual,Non-Violent
-179996,179819,2015,Dallas,TX,Texas,"Cities 1,000,000 or over",18-APR-15,1,Black or African American,1,Not Specified,1.0,Parking/Drop Lot/Garage,Anti-Asian,Individual,Other
+179996,179819,2015,Dallas,TX,Texas,"Cities 1,000,000 or over",18-APR-15,1,Black or African American,1,Not Specified,1.0,Parking/Drop Lot/Garage,Anti-Asian,Individual,Non-Violent
 179997,179820,2015,Dallas,TX,Texas,"Cities 1,000,000 or over",10-JUN-15,2,White,2,Intimidation,2.0,Park/Playground,Anti-Black or African American,Individual,Violent
 179998,179821,2015,Dallas,TX,Texas,"Cities 1,000,000 or over",11-SEP-15,1,Black or African American,1,Intimidation,1.0,Residence/Home,Anti-Transgender,Individual,Violent
 179999,179822,2015,Dallas,TX,Texas,"Cities 1,000,000 or over",20-SEP-15,2,White,1,Robbery,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,Violent
@@ -6790,7 +6790,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 186056,186035,2016,Galveston,TX,Texas,"Cities from 50,000 thru 99,999",27-NOV-16,0,Unknown,1,Destruction/Damage/Vandalism of Property,0.0,Commercial/Office Building,Anti-Other Race/Ethnicity/Ancestry,Business,Non-Violent
 186057,186036,2016,League City,TX,Texas,"Cities from 100,000 thru 249,999",23-JUN-16,0,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Park/Playground,Anti-Black or African American,Individual,Non-Violent
 186058,186037,2016,Texas City,TX,Texas,"Cities from 25,000 thru 49,999",03-OCT-16,1,Black or African American,1,Simple Assault,1.0,Bar/Nightclub,Anti-White,Individual,Violent
-186059,186038,2016,Texas City,TX,Texas,"Cities from 25,000 thru 49,999",11-OCT-16,1,Black or African American,1,Not Specified,1.0,Specialty Store,Anti-Asian,Individual,Other
+186059,186038,2016,Texas City,TX,Texas,"Cities from 25,000 thru 49,999",11-OCT-16,1,Black or African American,1,Not Specified,1.0,Specialty Store,Anti-Asian,Individual,Non-Violent
 186060,186039,2016,Denison,TX,Texas,"Cities from 10,000 thru 24,999",16-APR-16,0,Unknown,1,Aggravated Assault,1.0,Parking/Drop Lot/Garage,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",Individual,Violent
 186061,186040,2016,Longview,TX,Texas,"Cities from 50,000 thru 99,999",12-AUG-16,1,White,1,Simple Assault,1.0,Residence/Home,Anti-Hispanic or Latino,Individual,Violent
 186062,186041,2016,Longview,TX,Texas,"Cities from 50,000 thru 99,999",19-NOV-16,1,Black or African American,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Mental Disability,Individual,Non-Violent
@@ -6818,7 +6818,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 186084,186063,2016,Texas State Technical College:,TX,Texas,"Cities under 2,500",21-MAR-16,0,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,School-College/University,Anti-Gay (Male),Individual,Non-Violent
 186085,186064,2016,Parker,TX,Texas,"MSA counties from 25,000 thru 99,999",02-MAY-16,0,Unknown,2,Destruction/Damage/Vandalism of Property;Theft From Motor Vehicle,2.0,Residence/Home,Anti-Mental Disability,Individual,Non-Violent
 186086,186065,2016,Parker,TX,Texas,"MSA counties from 25,000 thru 99,999",23-SEP-16,0,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Bisexual,Individual,Non-Violent
-186087,186066,2016,Livingston,TX,Texas,"Cities from 2,500 thru 9,999",23-MAR-16,1,Black or African American,1,Not Specified,1.0,Department/Discount Store,Anti-White,Individual,Other
+186087,186066,2016,Livingston,TX,Texas,"Cities from 2,500 thru 9,999",23-MAR-16,1,Black or African American,1,Not Specified,1.0,Department/Discount Store,Anti-White,Individual,Non-Violent
 186088,186067,2016,Amarillo College,TX,Texas,"Cities under 2,500",31-MAR-16,1,Black or African American,1,Simple Assault,1.0,School-College/University,Anti-Other Race/Ethnicity/Ancestry,Individual,Violent
 186089,186068,2016,Rockwall,TX,Texas,"Cities from 25,000 thru 49,999",01-APR-16,1,White,1,Intimidation,1.0,School/College,Anti-Black or African American,Individual,Violent
 186090,186069,2016,San Jacinto,TX,Texas,"Non-MSA counties from 25,000 thru 99,999",14-MAR-16,0,Unknown,1,Intimidation,1.0,Residence/Home,Anti-Black or African American,Individual,Violent
@@ -6974,7 +6974,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 193185,189996,2017,Fort Bend,TX,Texas,"MSA counties 100,000 or over",30-JAN-17,0,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Black or African American,Individual,Non-Violent
 193186,191505,2017,Fort Bend,TX,Texas,"MSA counties 100,000 or over",31-MAY-17,1,White,1,Simple Assault,1.0,Parking/Drop Lot/Garage,Anti-Arab,Individual,Violent
 193187,191507,2017,Fort Bend,TX,Texas,"MSA counties 100,000 or over",02-FEB-17,0,,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Other Race/Ethnicity/Ancestry,Individual,Non-Violent
-193188,191508,2017,Fort Bend,TX,Texas,"MSA counties 100,000 or over",01-FEB-17,0,,1,Not Specified,1.0,Residence/Home,Anti-Black or African American,Individual,Other
+193188,191508,2017,Fort Bend,TX,Texas,"MSA counties 100,000 or over",01-FEB-17,0,,1,Not Specified,1.0,Residence/Home,Anti-Black or African American,Individual,Non-Violent
 193189,193040,2017,Fort Bend,TX,Texas,"MSA counties 100,000 or over",27-NOV-17,0,Unknown,1,Destruction/Damage/Vandalism of Property,,Residence/Home,Anti-Asian,Other,Non-Violent
 193190,191509,2017,Galveston,TX,Texas,"Cities from 50,000 thru 99,999",19-MAY-17,1,Black or African American,1,Simple Assault,1.0,Residence/Home,Anti-White,Individual,Violent
 193191,191511,2017,Galveston,TX,Texas,"Cities from 50,000 thru 99,999",08-MAY-17,0,Unknown,2,Destruction/Damage/Vandalism of Property,2.0,Residence/Home,"Anti-Multiple Races, Group",Individual,Non-Violent
@@ -6992,7 +6992,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 193203,1340962,2017,Longview,TX,Texas,"Cities from 50,000 thru 99,999",02-MAY-17,0,Unknown,2,Destruction/Damage/Vandalism of Property,2.0,Parking/Drop Lot/Garage,Anti-Lesbian (Female),Individual,Non-Violent
 193204,422645,2017,Silsbee,TX,Texas,"Cities from 2,500 thru 9,999",24-JUL-17,0,Unknown,1,Theft From Motor Vehicle,1.0,Residence/Home,Anti-White,Individual,Non-Violent
 193205,191529,2017,Galena Park,TX,Texas,"Cities from 10,000 thru 24,999",20-JUN-17,1,White,1,Simple Assault,1.0,Residence/Home,Anti-Black or African American,Individual,Violent
-193206,192182,2017,Galena Park,TX,Texas,"Cities from 10,000 thru 24,999",16-NOV-17,0,Unknown,1,Not Specified,1.0,Residence/Home,Anti-Jewish,Individual,Other
+193206,192182,2017,Galena Park,TX,Texas,"Cities from 10,000 thru 24,999",16-NOV-17,0,Unknown,1,Not Specified,1.0,Residence/Home,Anti-Jewish,Individual,Non-Violent
 193207,192167,2017,Seven Points,TX,Texas,"Cities under 2,500",30-DEC-17,1,Unknown,1,Simple Assault,1.0,Bar/Nightclub,Anti-White,Individual,Violent
 193208,292083,2017,Seven Points,TX,Texas,"Cities under 2,500",09-MAR-17,1,Unknown,1,Destruction/Damage/Vandalism of Property,,Restaurant,Anti-Gay (Male),Business,Non-Violent
 193209,467526,2017,University of Texas:,TX,Texas,"Cities under 2,500",07-MAR-17,0,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,School-College/University,Anti-White,Individual,Non-Violent
@@ -7015,7 +7015,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 193226,516359,2017,Devine,TX,Texas,"Cities from 2,500 thru 9,999",03-NOV-17,1,White,1,Drug Equipment Violations,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-American Indian or Alaska Native,Society/Public,Non-Violent
 193227,905031,2017,Devine,TX,Texas,"Cities from 2,500 thru 9,999",12-JUN-17,1,White,1,Simple Assault,1.0,Other/Unknown,Anti-American Indian or Alaska Native,Individual,Violent
 193228,411331,2017,Thorndale,TX,Texas,"Cities under 2,500",30-SEP-17,1,White,2,Aggravated Assault,2.0,Residence/Home,Anti-Black or African American,Individual,Violent
-193229,192180,2017,Dumas,TX,Texas,"Cities from 10,000 thru 24,999",12-DEC-17,1,White,1,Not Specified,1.0,Residence/Home,Anti-American Indian or Alaska Native,Individual,Other
+193229,192180,2017,Dumas,TX,Texas,"Cities from 10,000 thru 24,999",12-DEC-17,1,White,1,Not Specified,1.0,Residence/Home,Anti-American Indian or Alaska Native,Individual,Non-Violent
 193230,192037,2017,Corsicana,TX,Texas,"Cities from 10,000 thru 24,999",21-DEC-17,1,White,1,Simple Assault,1.0,Residence/Home,Anti-Lesbian (Female),Individual,Violent
 193231,921538,2017,Robertson,TX,Texas,"MSA counties from 10,000 thru 24,999",16-JUL-17,0,Unknown,1,Destruction/Damage/Vandalism of Property,0.0,Industrial Site,Anti-White,Business,Non-Violent
 193232,422628,2017,Rockwall,TX,Texas,"Cities from 25,000 thru 49,999",26-NOV-17,1,White,1,Drug/Narcotic Violations,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Physical Disability,Society/Public,Non-Violent
@@ -7079,7 +7079,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 193290,823118,2017,Independent School District:,TX,Texas,"Cities under 2,500",10-NOV-17,1,White,1,Drug/Narcotic Violations,0.0,School-Elementary/Secondary,Anti-American Indian or Alaska Native,Society/Public,Non-Violent
 193291,422666,2017,Victoria,TX,Texas,"Cities from 50,000 thru 99,999",30-MAY-17,0,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Black or African American,Individual,Non-Violent
 193292,193046,2017,Webb,TX,Texas,"MSA counties under 10,000",01-AUG-17,1,Unknown,1,Destruction/Damage/Vandalism of Property,,Highway/Road/Alley/Street/Sidewalk,Anti-Other Race/Ethnicity/Ancestry,Government,Non-Violent
-193293,191500,2017,Burkburnett,TX,Texas,"Cities from 10,000 thru 24,999",05-SEP-17,3,Multiple,1,Not Specified,1.0,Residence/Home,Anti-Lesbian (Female),Individual,Other
+193293,191500,2017,Burkburnett,TX,Texas,"Cities from 10,000 thru 24,999",05-SEP-17,3,Multiple,1,Not Specified,1.0,Residence/Home,Anti-Lesbian (Female),Individual,Non-Violent
 193294,191985,2017,Burkburnett,TX,Texas,"Cities from 10,000 thru 24,999",11-OCT-17,1,Black or African American,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,Violent
 193295,191521,2017,Williamson,TX,Texas,"MSA counties 100,000 or over",15-JUL-17,1,White,1,Intimidation,1.0,Residence/Home,Anti-Black or African American,Individual,Violent
 193296,191515,2017,Round Rock,TX,Texas,"Cities from 100,000 thru 249,999",20-JUN-17,1,White,1,Intimidation,1.0,Service/Gas Station,Anti-Black or African American,Individual,Violent
@@ -7164,7 +7164,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 200146,348645,2018,Addison,TX,Texas,"Cities from 10,000 thru 24,999",21-NOV-18,1,Black or African American,1,Robbery,1.0,Parking/Drop Lot/Garage,Anti-Transgender,Individual,Violent
 200147,707110,2018,Balch Springs,TX,Texas,"Cities from 25,000 thru 49,999",30-JUN-18,1,White,1,Aggravated Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,Violent
 200148,373468,2018,Carrollton,TX,Texas,"Cities from 100,000 thru 249,999",24-NOV-18,0,Unknown,1,Destruction/Damage/Vandalism of Property,,Park/Playground,Anti-Other Race/Ethnicity/Ancestry,Government,Non-Violent
-200149,292077,2018,DeSoto,TX,Texas,"Cities from 50,000 thru 99,999",16-MAY-18,5,Unknown,1,Not Specified,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,Other
+200149,292077,2018,DeSoto,TX,Texas,"Cities from 50,000 thru 99,999",16-MAY-18,5,Unknown,1,Not Specified,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,Non-Violent
 200150,348649,2018,Garland,TX,Texas,"Cities from 100,000 thru 249,999",26-NOV-18,0,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Other/Unknown,Anti-Black or African American,Individual,Non-Violent
 200151,601480,2018,Grand Prairie,TX,Texas,"Cities from 100,000 thru 249,999",24-MAY-18,0,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Black or African American,Individual,Non-Violent
 200152,601552,2018,Grand Prairie,TX,Texas,"Cities from 100,000 thru 249,999",03-JUN-18,2,White,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Asian,Individual,Non-Violent
@@ -7255,7 +7255,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 200237,292084,2018,Independent School District:,TX,Texas,"Cities under 2,500",05-JUN-18,1,White,1,Aggravated Assault,1.0,Parking/Drop Lot/Garage,Anti-Black or African American,Individual,Violent
 200238,482338,2018,Kyle,TX,Texas,"Cities from 25,000 thru 49,999",30-JUN-18,0,Unknown,1,All Other Larceny,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,Non-Violent
 200239,516537,2018,Kyle,TX,Texas,"Cities from 25,000 thru 49,999",31-AUG-18,1,White,1,Intimidation,1.0,Convenience Store,Anti-Other Race/Ethnicity/Ancestry,Individual,Violent
-200240,292082,2018,Seven Points,TX,Texas,"Cities under 2,500",14-JAN-18,2,White,1,Not Specified,1.0,Bar/Nightclub,Anti-American Indian or Alaska Native,Individual,Other
+200240,292082,2018,Seven Points,TX,Texas,"Cities under 2,500",14-JAN-18,2,White,1,Not Specified,1.0,Bar/Nightclub,Anti-American Indian or Alaska Native,Individual,Non-Violent
 200241,764302,2018,San Juan,TX,Texas,"Cities from 25,000 thru 49,999",25-JUL-18,0,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,School-Elementary/Secondary,Anti-American Indian or Alaska Native,Individual,Non-Violent
 200242,1177440,2018,Hillsboro,TX,Texas,"Cities from 2,500 thru 9,999",07-SEP-18,1,White,1,Shoplifting,0.0,Department/Discount Store,Anti-American Indian or Alaska Native,Business,Non-Violent
 200243,1177445,2018,Hillsboro,TX,Texas,"Cities from 2,500 thru 9,999",05-JUL-18,0,Unknown,1,Burglary/Breaking & Entering,1.0,Other/Unknown,Anti-American Indian or Alaska Native,Individual,Violent
@@ -7406,7 +7406,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 200388,348646,2018,Austin,TX,Texas,"Cities from 500,000 thru 999,999",19-OCT-18,1,Black or African American,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Transgender,Individual,Violent
 200389,348647,2018,Austin,TX,Texas,"Cities from 500,000 thru 999,999",11-OCT-18,1,White,1,Simple Assault,1.0,Park/Playground,Anti-Hispanic or Latino,Individual,Violent
 200390,363790,2018,Austin,TX,Texas,"Cities from 500,000 thru 999,999",11-SEP-18,1,White,1,Aggravated Assault,1.0,Church/Synagogue/Temple/Mosque,Anti-Black or African American,Individual,Violent
-200391,363830,2018,Austin,TX,Texas,"Cities from 500,000 thru 999,999",09-SEP-18,1,White,1,Not Specified,1.0,Bar/Nightclub,Anti-Physical Disability,Individual,Other
+200391,363830,2018,Austin,TX,Texas,"Cities from 500,000 thru 999,999",09-SEP-18,1,White,1,Not Specified,1.0,Bar/Nightclub,Anti-Physical Disability,Individual,Non-Violent
 200392,373475,2018,Austin,TX,Texas,"Cities from 500,000 thru 999,999",15-DEC-18,1,White,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Individual,Violent
 200393,293569,2018,Manor,TX,Texas,"Cities from 10,000 thru 24,999",24-MAR-18,1,White,1,Aggravated Assault,1.0,Residence/Home,Anti-Black or African American,Individual,Violent
 200394,516685,2018,Pflugerville,TX,Texas,"Cities from 50,000 thru 99,999",25-AUG-18,1,Black or African American,1,Simple Assault,1.0,Residence/Home,Anti-Gender Non-Conforming,Individual,Violent
@@ -7591,7 +7591,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 208083,1306119,2019,Lewisville,TX,Texas,"Cities from 100,000 thru 249,999",30-NOV-19,1,White,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,Violent
 208084,861368,2019,Texas Woman's University,TX,Texas,"Cities under 2,500",26-OCT-19,0,Unknown,1,Intimidation,1.0,School/College,Anti-Lesbian (Female),Individual,Violent
 208085,625588,2019,Spur,TX,Texas,"Cities under 2,500",15-DEC-19,1,White,1,Simple Assault,1.0,Residence/Home,Anti-Hispanic or Latino,Individual,Violent
-208086,706634,2019,Spur,TX,Texas,"Cities under 2,500",02-DEC-19,0,Unknown,1,Not Specified,,Commercial/Office Building,Anti-White,Business,Other
+208086,706634,2019,Spur,TX,Texas,"Cities under 2,500",02-DEC-19,0,Unknown,1,Not Specified,,Commercial/Office Building,Anti-White,Business,Non-Violent
 208087,1177052,2019,Duval,TX,Texas,"Non-MSA counties under 10,000",02-APR-19,0,Unknown,1,Shoplifting,0.0,Department/Discount Store,Anti-White,Business,Non-Violent
 208088,467524,2019,Odessa,TX,Texas,"Cities from 100,000 thru 249,999",10-FEB-19,1,White,1,Simple Assault,1.0,Residence/Home,Anti-Lesbian (Female),Individual,Violent
 208089,467525,2019,Odessa,TX,Texas,"Cities from 100,000 thru 249,999",22-FEB-19,4,White,2,Simple Assault,2.0,Restaurant,Anti-Hispanic or Latino;Anti-Physical Disability,Individual,Violent
@@ -7613,7 +7613,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 208105,1055490,2019,Stafford,TX,Texas,"Cities from 10,000 thru 24,999",03-DEC-19,0,Unknown,1,Burglary/Breaking & Entering,1.0,Commercial/Office Building,"Anti-Eastern Orthodox (Russian, Greek, Other)",Individual,Violent
 208106,467518,2019,Galveston,TX,Texas,"MSA counties from 25,000 thru 99,999",29-JAN-19,1,White,1,Sexual Assault With An Object,1.0,Residence/Home,Anti-Mental Disability,Individual,Violent
 208107,1176933,2019,Dickinson,TX,Texas,"Cities from 10,000 thru 24,999",16-NOV-19,1,White,1,Simple Assault,1.0,Residence/Home,Anti-Hispanic or Latino,Individual,Violent
-208108,566432,2019,League City,TX,Texas,"Cities from 100,000 thru 249,999",15-JUL-19,1,White,1,Not Specified,1.0,Residence/Home,Anti-Lesbian (Female),Individual,Other
+208108,566432,2019,League City,TX,Texas,"Cities from 100,000 thru 249,999",15-JUL-19,1,White,1,Not Specified,1.0,Residence/Home,Anti-Lesbian (Female),Individual,Non-Violent
 208109,822444,2019,Gladewater,TX,Texas,"Cities from 2,500 thru 9,999",12-MAR-19,1,White,1,Simple Assault,1.0,Residence/Home,Anti-American Indian or Alaska Native,Law Enforcement Officer,Violent
 208110,822465,2019,Gladewater,TX,Texas,"Cities from 2,500 thru 9,999",13-MAR-19,1,Unknown,1,All Other Larceny,1.0,Other/Unknown,Anti-American Indian or Alaska Native,Individual,Non-Violent
 208111,921187,2019,Gladewater,TX,Texas,"Cities from 2,500 thru 9,999",15-AUG-19,0,Unknown,1,Intimidation,1.0,Residence/Home,Anti-Lesbian (Female),Individual,Violent
@@ -7700,7 +7700,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 208192,474718,2019,Commerce,TX,Texas,"Cities from 2,500 thru 9,999",18-JAN-19,2,White,1,Simple Assault,1.0,Abandoned/Condemned Structure,Anti-American Indian or Alaska Native,Individual,Violent
 208193,474719,2019,Commerce,TX,Texas,"Cities from 2,500 thru 9,999",26-MAY-19,1,Black or African American,1,Simple Assault,1.0,Abandoned/Condemned Structure,Anti-American Indian or Alaska Native,Individual,Violent
 208194,526439,2019,Commerce,TX,Texas,"Cities from 2,500 thru 9,999",01-JAN-19,1,Black or African American,1,Sexual Assault With An Object,1.0,Residence/Home,Anti-Other Race/Ethnicity/Ancestry,Individual,Violent
-208195,566430,2019,Commerce,TX,Texas,"Cities from 2,500 thru 9,999",15-JUL-19,0,Unknown,1,Not Specified,1.0,Residence/Home,Anti-American Indian or Alaska Native,Individual,Other
+208195,566430,2019,Commerce,TX,Texas,"Cities from 2,500 thru 9,999",15-JUL-19,0,Unknown,1,Not Specified,1.0,Residence/Home,Anti-American Indian or Alaska Native,Individual,Non-Violent
 208196,707202,2019,Greenville,TX,Texas,"Cities from 25,000 thru 49,999",28-SEP-19,1,White,1,Simple Assault,1.0,Residence/Home,Anti-Black or African American,Individual,Violent
 208197,467605,2019,Beaumont,TX,Texas,"Cities from 100,000 thru 249,999",01-JAN-19,1,Black or African American,1,Aggravated Assault,1.0,Residence/Home,Anti-White,Individual,Violent
 208198,566429,2019,Beaumont,TX,Texas,"Cities from 100,000 thru 249,999",02-JUL-19,1,White,1,Intimidation,1.0,Residence/Home,Anti-Black or African American,Individual,Violent
@@ -7850,7 +7850,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 208342,1179435,2019,Williamson,TX,Texas,"MSA counties 100,000 or over",30-APR-19,1,Black or African American,1,Simple Assault,1.0,Residence/Home,Anti-Gay (Male),Individual,Violent
 208343,1177272,2019,Georgetown,TX,Texas,"Cities from 50,000 thru 99,999",29-SEP-19,1,White,1,Aggravated Assault,1.0,Parking/Drop Lot/Garage,Anti-Hispanic or Latino,Individual,Violent
 208344,467523,2019,Cedar Park,TX,Texas,"Cities from 50,000 thru 99,999",26-MAR-19,0,Unknown,1,Intimidation,1.0,Residence/Home,Anti-Jewish,Individual,Violent
-208345,474716,2019,Cedar Park,TX,Texas,"Cities from 50,000 thru 99,999",03-APR-19,0,Unknown,1,Not Specified,1.0,Residence/Home,Anti-Physical Disability,Individual,Other
+208345,474716,2019,Cedar Park,TX,Texas,"Cities from 50,000 thru 99,999",03-APR-19,0,Unknown,1,Not Specified,1.0,Residence/Home,Anti-Physical Disability,Individual,Non-Violent
 208346,474717,2019,Cedar Park,TX,Texas,"Cities from 50,000 thru 99,999",10-APR-19,1,White,1,Simple Assault,1.0,Parking/Drop Lot/Garage,Anti-Black or African American,Individual,Violent
 208347,1176819,2019,Cedar Park,TX,Texas,"Cities from 50,000 thru 99,999",18-OCT-19,1,Black or African American,1,Destruction/Damage/Vandalism of Property,1.0,Parking/Drop Lot/Garage,Anti-Gay (Male),Individual,Non-Violent
 208348,1176820,2019,Cedar Park,TX,Texas,"Cities from 50,000 thru 99,999",13-NOV-19,0,Unknown,1,Intimidation,1.0,Specialty Store,Anti-Hispanic or Latino,Individual,Violent
@@ -8039,7 +8039,7 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 217601,1341832,2020,The Colony,TX,Texas,"Cities from 25,000 thru 49,999",06-AUG-20,0,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Black or African American,Individual,Non-Violent
 217602,1341842,2020,The Colony,TX,Texas,"Cities from 25,000 thru 49,999",27-SEP-20,0,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Black or African American,Individual,Non-Violent
 217603,1340604,2020,Double Oak,TX,Texas,"Cities from 2,500 thru 9,999",25-NOV-20,1,White,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Black or African American;Anti-Gay (Male),Individual,Non-Violent
-217604,749782,2020,Spur,TX,Texas,"Cities under 2,500",18-FEB-20,0,Unknown,2,Not Specified,,Community Center,"Anti-Multiple Races, Group",Government,Other
+217604,749782,2020,Spur,TX,Texas,"Cities under 2,500",18-FEB-20,0,Unknown,2,Not Specified,,Community Center,"Anti-Multiple Races, Group",Government,Non-Violent
 217605,749784,2020,Spur,TX,Texas,"Cities under 2,500",06-JAN-20,0,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-White,Individual,Non-Violent
 217606,1054184,2020,Spur,TX,Texas,"Cities under 2,500",06-JUL-20,1,Black or African American,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Individual,Violent
 217607,1054185,2020,Spur,TX,Texas,"Cities under 2,500",09-SEP-20,2,White,1,Simple Assault,1.0,Other/Unknown,Anti-White,Individual,Violent
@@ -8150,10 +8150,10 @@ Unnamed: 0,INCIDENT_ID,DATA_YEAR,PUB_AGENCY_NAME,STATE_ABBR,STATE_NAME,POPULATIO
 217712,1179177,2020,Trinity Valley Community College,TX,Texas,"Cities under 2,500",07-OCT-20,1,Black or African American,1,Intimidation,1.0,School-College/University,Anti-Black or African American,Individual,Violent
 217713,1179204,2020,Trinity Valley Community College,TX,Texas,"Cities under 2,500",23-AUG-20,1,Black or African American,1,Drug/Narcotic Violations,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-American Indian or Alaska Native,Society/Public,Non-Violent
 217714,1179210,2020,Trinity Valley Community College,TX,Texas,"Cities under 2,500",16-SEP-20,1,Black or African American,1,Intimidation,1.0,School-College/University,Anti-Black or African American,Individual,Violent
-217715,859180,2020,Mercedes,TX,Texas,"Cities from 10,000 thru 24,999",12-JAN-20,1,White,1,Not Specified,,Grocery/Supermarket,Anti-Sikh,Business,Other
+217715,859180,2020,Mercedes,TX,Texas,"Cities from 10,000 thru 24,999",12-JAN-20,1,White,1,Not Specified,,Grocery/Supermarket,Anti-Sikh,Business,Non-Violent
 217716,859181,2020,Mercedes,TX,Texas,"Cities from 10,000 thru 24,999",18-FEB-20,1,Unknown,1,Murder and Nonnegligent Manslaughter,1.0,Residence/Home,Anti-Sikh,Individual,Violent
 217717,859182,2020,Mercedes,TX,Texas,"Cities from 10,000 thru 24,999",20-FEB-20,1,White,1,Simple Assault,1.0,Residence/Home,Anti-Sikh,Individual,Violent
-217718,859183,2020,Mercedes,TX,Texas,"Cities from 10,000 thru 24,999",12-MAR-20,1,Unknown,1,Not Specified,1.0,Residence/Home,Anti-Sikh,Individual,Other
+217718,859183,2020,Mercedes,TX,Texas,"Cities from 10,000 thru 24,999",12-MAR-20,1,Unknown,1,Not Specified,1.0,Residence/Home,Anti-Sikh,Individual,Non-Violent
 217719,1306710,2020,Mercedes,TX,Texas,"Cities from 10,000 thru 24,999",12-AUG-20,1,White,1,Aggravated Assault,1.0,Residence/Home,Anti-American Indian or Alaska Native,Individual,Violent
 217720,1260367,2020,Hill,TX,Texas,"Non-MSA counties from 10,000 thru 24,999",12-DEC-20,1,White,1,Simple Assault,1.0,Residence/Home,Anti-Black or African American,Individual,Violent
 217721,1305695,2020,Hopkins,TX,Texas,"Non-MSA counties from 10,000 thru 24,999",22-SEP-20,1,White,1,Pornography/Obscene Material,0.0,Cyberspace,"Anti-Multiple Races, Group",Society/Public,Violent

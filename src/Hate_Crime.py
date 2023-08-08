@@ -1,7 +1,10 @@
 import sys
 import os
-
 import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+import pandas as pd
+
 
 class HateCrimeAnalyzer:
     def __init__(self, data_path):
@@ -49,7 +52,7 @@ class HateCrimeAnalyzer:
             if offense_type in violent_lst:
                 return 'Violent'
             elif offense_type == "Not Specified":
-                return 'Other'
+                return 'Non-Violent'
             else:
                 return "Non-Violent"
         
@@ -64,20 +67,24 @@ class HateCrimeAnalyzer:
 
         #create severity column
         self.data['SEVERITY'] = self.data['OFFENSE_NAME'].apply(self.map_to_severity)
+        self.data['BIAS_DESC_NUMERIC'] = self.data['BIAS_DESC'].apply(self)
 
 if __name__ == "__main__":
-    data_path = "C:/Users/chris/Documents/Galvanize/daimil10/Final_Project/Hate_Crime/data/Hate_crime1/combined_data.csv"
-    output_path = "C:/Users/chris/Documents/Galvanize/daimil10/Final_Project/Hate_Crime/data/Hate_crime1/processed_data.csv"  # Specify your desired output path
+    data_path = "C:/Users/chris/Documents/Galvanize/daimil10/Final_Project/Hate_Crime/data/Hate_crime1/hate_crimes_tx.csv"
+    output_path = "C:/Users/chris/Documents/Galvanize/daimil10/Final_Project/Hate_Crime/data/Hate_crime1/tx_data2_processed_data.csv"  # Specify your desired output path
+    
     columns_to_remove = [
         "ORI", "PUB_AGENCY_UNIT", "AGENCY_TYPE_NAME", "DIVISION_NAME", 
-        "REGION_NAME", "POPULATION_GROUP_CODE", "ADULT_VICTIM_COUNT", "JUVENILE_VICTIM_COUNT", 
+        "REGION_NAME", "ADULT_VICTIM_COUNT", "JUVENILE_VICTIM_COUNT", 
         "ADULT_OFFENDER_COUNT", "JUVENILE_OFFENDER_COUNT", "OFFENDER_ETHNICITY", 
         "MULTIPLE_OFFENSE", "MULTIPLE_BIAS"
     ] 
 
     data_processor = HateCrimeAnalyzer(data_path)
     data_processor.remove_columns(columns_to_remove)
+    data_processor.data['SEVERITY'] = data_processor.data['OFFENSE_NAME'].apply(data_processor.map_to_severity)
     
+
 
     print(data_processor.data.head())
     # Call the sum_offenses_by_year function
