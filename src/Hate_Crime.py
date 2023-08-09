@@ -9,16 +9,17 @@ import pandas as pd
 class HateCrimeAnalyzer:
     def __init__(self, data_path):
         self.data = pd.read_csv(data_path)
+        self.data.fillna(0, inplace=True)
 
-    def sum_offenses_by_year(self):
-        """Summarizes the number of offenses by year.
+    # def sum_offenses_by_year(self):
+    #     """Summarizes the number of offenses by year.
 
-        Returns:
-            DataFrame containing the summed data.
-        """
-        summed_data = self.data.groupby(['DATA_YEAR', 'OFFENSE_NAME'])['INCIDENT_ID'].count().reset_index()
-        summed_data.rename(columns={'INCIDENT_ID': 'Number of Offenses'}, inplace=True)
-        return summed_data
+    #     Returns:
+    #         DataFrame containing the summed data.
+    #     """
+    #     summed_data = self.data.groupby(['DATA_YEAR', 'OFFENSE_NAME'])['INCIDENT_ID'].count().reset_index()
+    #     summed_data.rename(columns={'INCIDENT_ID': 'Number of Offenses'}, inplace=True)
+    #     return summed_data
 
     def calculate_and_print_victim_counts(self):
         victim_counts = self.data['VICTIM_COUNT'].value_counts()
@@ -67,32 +68,33 @@ class HateCrimeAnalyzer:
 
         #create severity column
         self.data['SEVERITY'] = self.data['OFFENSE_NAME'].apply(self.map_to_severity)
-        self.data['BIAS_DESC_NUMERIC'] = self.data['BIAS_DESC'].apply(self)
 
 if __name__ == "__main__":
-    data_path = "C:/Users/chris/Documents/Galvanize/daimil10/Final_Project/Hate_Crime/data/Hate_crime1/hate_crimes_tx.csv"
-    output_path = "C:/Users/chris/Documents/Galvanize/daimil10/Final_Project/Hate_Crime/data/Hate_crime1/tx_data2_processed_data.csv"  # Specify your desired output path
+    data_path = "C:/Users/chris/Documents/Galvanize/daimil10/Final_Project/Hate_Crime/data/Hate_crime1/combined_data.csv"
+    output_path = "C:/Users/chris/Documents/Galvanize/daimil10/Final_Project/Hate_Crime/data/Hate_crime1/combined_data_processed_data.csv"  # Specify your desired output path
     
+    data_processor = HateCrimeAnalyzer(data_path)
+    data_processor.data['SEVERITY'] = data_processor.data['OFFENSE_NAME'].apply(data_processor.map_to_severity)
+
     columns_to_remove = [
-        "ORI", "PUB_AGENCY_UNIT", "AGENCY_TYPE_NAME", "DIVISION_NAME", 
+        "ORI", "PUB_AGENCY_UNIT","PUB_AGENCY_NAME","STATE_ABBR","LOCATION_NAME","OFFENSE_NAME","VICTIM_TYPES","TOTAL_INDIVIDUAL_VICTIMS", "AGENCY_TYPE_NAME", "DIVISION_NAME", 
         "REGION_NAME", "ADULT_VICTIM_COUNT", "JUVENILE_VICTIM_COUNT", 
         "ADULT_OFFENDER_COUNT", "JUVENILE_OFFENDER_COUNT", "OFFENDER_ETHNICITY", 
-        "MULTIPLE_OFFENSE", "MULTIPLE_BIAS"
+        "MULTIPLE_OFFENSE", "MULTIPLE_BIAS","INCIDENT_ID","DATA_YEAR","STATE_NAME","POPULATION_GROUP_CODE","Unnamed: 0","INCIDENT_DATE"
     ] 
 
-    data_processor = HateCrimeAnalyzer(data_path)
     data_processor.remove_columns(columns_to_remove)
-    data_processor.data['SEVERITY'] = data_processor.data['OFFENSE_NAME'].apply(data_processor.map_to_severity)
+    
     
 
 
     print(data_processor.data.head())
     # Call the sum_offenses_by_year function
-    summed_offenses = data_processor.sum_offenses_by_year()
+    #summed_offenses = data_processor.sum_offenses_by_year()
     
-    print(summed_offenses)
-    # Call the calculate_and_print_victim_counts function
-    data_processor.calculate_and_print_victim_counts()
+    # print(summed_offenses)
+    # # Call the calculate_and_print_victim_counts function
+    # data_processor.calculate_and_print_victim_counts()
 
     data_processor.data.to_csv(output_path, index=False)
 
