@@ -1,0 +1,70 @@
+OFFENDER_RACE,BIAS_DESC,COUNT
+American Indian or Alaska Native,Anti-Asian,64
+American Indian or Alaska Native,Anti-Black or African American,525
+American Indian or Alaska Native,Anti-Gay (Male),208
+American Indian or Alaska Native,Anti-Hispanic or Latino,241
+American Indian or Alaska Native,Anti-Jewish,57
+American Indian or Alaska Native,Anti-Lesbian (Female),34
+American Indian or Alaska Native,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",79
+American Indian or Alaska Native,"Anti-Multiple Races, Group",32
+American Indian or Alaska Native,Anti-Other Race/Ethnicity/Ancestry,100
+American Indian or Alaska Native,Anti-White,743
+Asian,Anti-Asian,263
+Asian,Anti-Black or African American,941
+Asian,Anti-Gay (Male),348
+Asian,Anti-Hispanic or Latino,243
+Asian,Anti-Jewish,176
+Asian,Anti-Lesbian (Female),58
+Asian,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",70
+Asian,"Anti-Multiple Races, Group",44
+Asian,Anti-Other Race/Ethnicity/Ancestry,202
+Asian,Anti-White,463
+Black or African American,Anti-Asian,1444
+Black or African American,Anti-Black or African American,4216
+Black or African American,Anti-Gay (Male),8159
+Black or African American,Anti-Hispanic or Latino,4335
+Black or African American,Anti-Jewish,1335
+Black or African American,Anti-Lesbian (Female),1548
+Black or African American,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",2037
+Black or African American,"Anti-Multiple Races, Group",620
+Black or African American,Anti-Other Race/Ethnicity/Ancestry,2154
+Black or African American,Anti-White,25001
+Multiple,Anti-Asian,250
+Multiple,Anti-Black or African American,2559
+Multiple,Anti-Gay (Male),1674
+Multiple,Anti-Hispanic or Latino,503
+Multiple,Anti-Jewish,483
+Multiple,Anti-Lesbian (Female),230
+Multiple,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",253
+Multiple,"Anti-Multiple Races, Group",318
+Multiple,Anti-Other Race/Ethnicity/Ancestry,421
+Multiple,Anti-White,1174
+Native Hawaiian or Other Pacific Islander,Anti-Asian,8
+Native Hawaiian or Other Pacific Islander,Anti-Black or African American,34
+Native Hawaiian or Other Pacific Islander,Anti-Gay (Male),18
+Native Hawaiian or Other Pacific Islander,Anti-Hispanic or Latino,12
+Native Hawaiian or Other Pacific Islander,Anti-Jewish,2
+Native Hawaiian or Other Pacific Islander,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",6
+Native Hawaiian or Other Pacific Islander,"Anti-Multiple Races, Group",2
+Native Hawaiian or Other Pacific Islander,Anti-Other Race/Ethnicity/Ancestry,4
+Native Hawaiian or Other Pacific Islander,Anti-White,44
+Unknown,Anti-Asian,5203
+Unknown,Anti-Black or African American,59279
+Unknown,Anti-Gay (Male),13316
+Unknown,Anti-Hispanic or Latino,7721
+Unknown,Anti-Jewish,43301
+Unknown,Anti-Lesbian (Female),3364
+Unknown,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",5607
+Unknown,"Anti-Multiple Races, Group",6216
+Unknown,Anti-Other Race/Ethnicity/Ancestry,9692
+Unknown,Anti-White,13245
+White,Anti-Asian,5025
+White,Anti-Black or African American,78319
+White,Anti-Gay (Male),18348
+White,Anti-Hispanic or Latino,14123
+White,Anti-Jewish,9086
+White,Anti-Lesbian (Female),3447
+White,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",5228
+White,"Anti-Multiple Races, Group",3185
+White,Anti-Other Race/Ethnicity/Ancestry,8485
+White,Anti-White,8272
