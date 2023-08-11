@@ -45,6 +45,10 @@ This graph highlighted how different offender races were associated with varying
 
 Hate Crime Bias Description by Offender Race:
 
+![hate_crime_by_offender_race](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/Hate%20Crime%20by%20Offender%20Race%20and%20Year.png)
+
+![Bias_desc_by_offender](
+
 Utilized stacked bar graphs to showcase the distribution of bias descriptions (victim attributes) based on offender race.
 These graphs illustrated how different offender races were associated with different types of bias descriptions.
 Hypothesis Testing - Chi-Square Test of Independence:
