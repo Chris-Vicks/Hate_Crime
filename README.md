@@ -47,22 +47,38 @@ Hate Crime Bias Description by Offender Race:
 
 ![hate_crime_by_offender_race](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/Hate%20Crime%20by%20Offender%20Race%20and%20Year.png)
 
-![Bias_desc_by_offender](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/American%20Indian.png, https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/Black_African%20American.png)
+![American_Indian_by Bias_desc_by_offender](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/American%20Indian.png)
+![blackafricanamerican_by Bias_desc_by_offender](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/Black_African%20American.png)
+![Multiple__by Bias_desc_by_offender](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/Multiple.png)
+![White_Indian_by Bias_desc_by_offender](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/White.png)
+![Unnknown_Indian_by Bias_desc_by_offender](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/Unknown.png)
+![Asian_Indian_by Bias_desc_by_offender](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/asian.png)
+
 
 Utilized stacked bar graphs to showcase the distribution of bias descriptions (victim attributes) based on offender race.
 These graphs illustrated how different offender races were associated with different types of bias descriptions.
+
 Hypothesis Testing - Chi-Square Test of Independence:
+![Chi_results](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/CHI%20Squared.PNG)
 
 Formulated null and alternative hypotheses to investigate the relationship between offender race and bias description.
 Conducted a Chi-Square test to determine if there was a significant association between the two categorical variables.
 Based on the obtained p-value, you rejected the null hypothesis, suggesting that offender race and bias description are not independent.
+
 Logistic Regression Model Coefficients:
+
+![Coefficients](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/COEF.png)
 
 Employed a logistic regression model to analyze the relationship between various factors and the likelihood of hate crimes.
 Interpreted the coefficients of the model, identifying which factors had a significant impact on the prediction of hate crimes.
+
+
 Relative Crimes per Capita Heatmaps:
+![Relative_crimes_per_capita_by_offender](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/relative%20Crimes%20per%20capita%20by%20offender%20race%20and%20year.png)
+
+![relative_crimes_per_capita_by_Population_group](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/Relative%20crime%20per%20capita.png)
 
 Created heatmaps to visualize the relative crimes per capita by population group and offender race over the years.
-These heatmaps provided insights into the distribution of hate crimes within different demographic groups.
+These heat maps provided insights into the distribution of hate crimes within different demographic groups.
 
 
