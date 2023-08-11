@@ -25,4 +25,31 @@ Through this, we wanted to familiarize ourselves with the structure of the datab
 
 ![Hate_Crime_Overtime](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/US%20Hate%20Crime%20over%20time.png)
 
-![]
+# Statistical Analysis and testing
+Hate Crime Severity by Year:
+
+Created a bar graph that visualized hate crime severity distribution over the years.
+This graph provided an overview of how hate crime severity has changed over time.
+Hate Crime Severity by Offender Race:
+
+Generated a stacked bar graph that depicted hate crime severity distribution by offender race.
+This graph highlighted how different offender races were associated with varying levels of offense severity.
+Hate Crime Bias Description by Offender Race:
+
+Utilized stacked bar graphs to showcase the distribution of bias descriptions (victim attributes) based on offender race.
+These graphs illustrated how different offender races were associated with different types of bias descriptions.
+Hypothesis Testing - Chi-Square Test of Independence:
+
+Formulated null and alternative hypotheses to investigate the relationship between offender race and bias description.
+Conducted a Chi-Square test to determine if there was a significant association between the two categorical variables.
+Based on the obtained p-value, you rejected the null hypothesis, suggesting that offender race and bias description are not independent.
+Logistic Regression Model Coefficients:
+
+Employed a logistic regression model to analyze the relationship between various factors and the likelihood of hate crimes.
+Interpreted the coefficients of the model, identifying which factors had a significant impact on the prediction of hate crimes.
+Relative Crimes per Capita Heatmaps:
+
+Created heatmaps to visualize the relative crimes per capita by population group and offender race over the years.
+These heatmaps provided insights into the distribution of hate crimes within different demographic groups.
+
+
