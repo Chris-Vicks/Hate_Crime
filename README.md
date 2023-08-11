@@ -36,7 +36,9 @@ This graph provided an overview of how hate crime severity has changed over time
 
 Hate Crime Severity by Offender Race:
 
+
 ![SEVERITY_by_OFFENDER_RACE](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/Total%20incidents%20by%20offender.png)
+
 
 Generated a stacked bar graph that depicted hate crime severity distribution by offender race.
 This graph highlighted how different offender races were associated with varying levels of offense severity.
