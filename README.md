@@ -11,3 +11,11 @@ The victim attribute does not matter to the race of the offender when  committin
 
 ### Alternate:
 The race of the offender race affects the victim's attribute when committing a crime
+
+### Methodology:
+Our analysis utilizes a comprehensive dataset encompassing hate crime incidents. We employ various statistical techniques, including data visualization, chi-square tests, and logistic regression, to uncover patterns, correlations, and dependencies. Through these methodologies, we aim to provide empirical evidence to support or challenge our hypotheses.
+
+# EDA into Hate Crime Database
+The database for this analysis is from the FBI Hate Crimes in the USA (1991-2020) at https://www.kaggle.com/datasets/jonathanrevere/fbi-hate-crimes-in-usa-19912020?select=Hate+Crimes+in+NC+1991-2020.csv. 
+
+This dataset had an individual dataset for each state, so from there all the CSV files had to be joined to complete an overall analysis of the USA.
