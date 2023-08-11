@@ -6,8 +6,8 @@ Hate crimes represent a concerning and complex challenge for communities and soc
 ## Exploring Hypotheses:
 To better understand the mechanics of hate crimes, we pose two primary hypotheses:
 
-# Null Hypothesis:  
+### Null Hypothesis:  
 The victim attribute does not matter to the race of the offender when  committing a crime
 
-# Alternate:
-The race of the offender affect the victim attribute when committing a crime
+### Alternate:
+The race of the offender race affects the victim's attribute when committing a crime
