@@ -67,7 +67,9 @@ Based on the obtained p-value, you rejected the null hypothesis, suggesting that
 
 Logistic Regression Model Coefficients:
 
+
 ![Coefficients](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/COEF.png)
+
 
 Employed a logistic regression model to analyze the relationship between various factors and the likelihood of hate crimes.
 Interpreted the coefficients of the model, identifying which factors had a significant impact on the prediction of hate crimes.
