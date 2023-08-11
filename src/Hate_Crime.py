@@ -11,16 +11,6 @@ class HateCrimeAnalyzer:
         self.data = pd.read_csv(data_path)
         self.data.fillna(0, inplace=True)
 
-    # def sum_offenses_by_year(self):
-    #     """Summarizes the number of offenses by year.
-
-    #     Returns:
-    #         DataFrame containing the summed data.
-    #     """
-    #     summed_data = self.data.groupby(['DATA_YEAR', 'OFFENSE_NAME'])['INCIDENT_ID'].count().reset_index()
-    #     summed_data.rename(columns={'INCIDENT_ID': 'Number of Offenses'}, inplace=True)
-    #     return summed_data
-
     def calculate_and_print_victim_counts(self):
         victim_counts = self.data['VICTIM_COUNT'].value_counts()
         print(victim_counts)
@@ -85,16 +75,7 @@ if __name__ == "__main__":
 
     data_processor.remove_columns(columns_to_remove)
     
-    
-
-
     print(data_processor.data.head())
-    # Call the sum_offenses_by_year function
-    #summed_offenses = data_processor.sum_offenses_by_year()
-    
-    # print(summed_offenses)
-    # # Call the calculate_and_print_victim_counts function
-    # data_processor.calculate_and_print_victim_counts()
 
     data_processor.data.to_csv(output_path, index=False)
 
