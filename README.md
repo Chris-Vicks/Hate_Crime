@@ -15,11 +15,15 @@ The race of the offender race does influence the victim's attribute when committ
 ### Methodology:
 The analysis utilizes a comprehensive dataset encompassing hate crime incidents. We employ various statistical techniques, including data visualization, chi-square tests, and logistic regression, to uncover patterns, correlations, and dependencies. Through these methodologies, we aim to provide empirical evidence to support or challenge our hypotheses.
 
-# EDA into Hate Crime Database
-The database for this analysis is from the FBI Hate Crimes in the USA (1991-2020) at https://www.kaggle.com/datasets/jonathanrevere/fbi-hate-crimes-in-usa-19912020?select=Hate+Crimes+in+NC+1991-2020.csv. 
+# Exploratory Data Analysis on Hate Crime Database
 
-This dataset had an individual dataset for each state, so from there all the CSV files had to be joined to complete an overall analysis of the USA.
-Through this, we wanted to familiarize ourselves with the structure of the database. This dataset began with 29 columns and 429,968 rows.  After cleaning the data I only used 8 columns for the analysis.
+The foundation for this analysis is the FBI Hate Crimes in the USA (1991-2020) dataset, accessible at https://www.kaggle.com/datasets/jonathanrevere/fbi-hate-crimes-in-usa-19912020?select=Hate+Crimes+in+NC+1991-2020.csv.
+
+To undertake a comprehensive examination, this analysis required merging individual datasets for each state into a cohesive representation of hate crimes in the entire USA.
+
+Our initial dataset consisted of 29 columns and 429,968 rows. However, in order to focus our analysis, we refined our scope by selecting 8 key columns from this dataset. The data cleaning process involved excluding columns with limited values that did not contribute to our analytical objectives.
+
+Through this exploratory process, we aimed to gain an in-depth understanding of hate crime patterns and their underlying factors. Our refined dataset enabled us to direct our analysis toward meaningful insights that highlight correlations and trends in hate crime occurrences.
 
 
 
