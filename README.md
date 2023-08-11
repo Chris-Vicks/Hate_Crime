@@ -25,4 +25,4 @@ Through this, we wanted to familiarize ourselves with the structure of the datab
 
 ![Hate_Crime_Overtime](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/US%20Hate%20Crime%20over%20time.png)
 
-
+![]
