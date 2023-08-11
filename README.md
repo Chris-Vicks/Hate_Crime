@@ -29,11 +29,13 @@ Through this, we wanted to familiarize ourselves with the structure of the datab
 Hate Crime Severity by Year:
 
 Created a bar graph that visualized hate crime severity distribution over the years.
+
 ![SEVERITY_DISTRIBUTION](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/Severity%20Overtime.png)
 
 This graph provided an overview of how hate crime severity has changed over time.
 
 Hate Crime Severity by Offender Race:
+
 ![SEVERITY_by_OFFENDER_RACE](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/Total%20incidents%20by%20offender.png)
 
 Generated a stacked bar graph that depicted hate crime severity distribution by offender race.
