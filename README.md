@@ -22,6 +22,7 @@ This dataset had an individual dataset for each state, so from there all the CSV
 Through this, we wanted to familiarize ourselves with the structure of the database. This dataset began with 29 columns and 429,968 rows.  After cleaning the data I only used 8 columns for the analysis.
 
 ![SEVERITY_DISTRIBUTION](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/Severity%20Overtime.png)
+
 ![Hate_Crime_Overtime](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/US%20Hate%20Crime%20over%20time.png)
 
 
