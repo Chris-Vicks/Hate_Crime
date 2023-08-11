@@ -23,3 +23,5 @@ Through this, we wanted to familiarize ourselves with the structure of the datab
 
 ![SEVERITY_DISTRIBUTION](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/Severity%20Overtime.png)
 
+
+
