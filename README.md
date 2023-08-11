@@ -21,5 +21,5 @@ The database for this analysis is from the FBI Hate Crimes in the USA (1991-2020
 This dataset had an individual dataset for each state, so from there all the CSV files had to be joined to complete an overall analysis of the USA.
 Through this, we wanted to familiarize ourselves with the structure of the database. This dataset began with 29 columns and 429,968 rows.  After cleaning the data I only used 8 columns for the analysis.
 
-![SEVERITY_DISTRIBUTION]()
+![SEVERITY_DISTRIBUTION](https://github.com/Chris-Vicks/Hate_Crime/blob/main/img/Severity%20Overtime.png)
 
